@@ -1,2 +1,4 @@
 # Project-2020-GEUS
-SEB model for ice slabs
+GEUS SEB firn model density profile perturbers and data analysis. 
+
+Licensed under BY CC-SA
